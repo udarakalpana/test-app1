@@ -1,9 +1,7 @@
-import './App.css'
-
-function App() {
+const App = () => {
 
   return (
-    <h1>Hello React!</h1>
+    <h1>This is first automation deployment trigger.</h1>
   )
 }
 
